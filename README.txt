@@ -33,4 +33,11 @@ It's super easy to use.
 Check AIRTL.fla (Animate 2019) for more advanced informations and functions.
 
 
+
+Special Thanks to :
+
+** Suha AlSo'ub, for the Arabic Map Class **
+** Waleed Tawfiq, for the HTML function **
+** Jordan Academy of Arabic, Dr.Mohammad AlSo'udi **
+
 Enjoy
